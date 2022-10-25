@@ -2,6 +2,7 @@
 ---
 layout: post
 title:  Solutions
+permalink: /solutions/
 ---
 
 There are several measures we can take to mitigate the negative effects of predominantly female VAs.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Background
+permalink: /background/
 ---
 VAs are perceived as unmistakably female.
 

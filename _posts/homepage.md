@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Exploration of AI Assistants & Gender
+permalink: /home/
 ---
 Voice assistants (VAs) are quickly becoming a predominant feature of everything from our smartphones to our cars to our kitchen devices. We're increasingly reliant on them for communication with others, scheduling, home maintenance, and even companionship. By 2024, digital voice assistants are expected to outnumber people.
 
