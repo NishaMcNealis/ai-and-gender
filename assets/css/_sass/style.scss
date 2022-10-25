@@ -26,10 +26,12 @@ h1,h2,h3,h4,h5,h6 {
         margin: 0;
 }
 
-.subtitle {
+h5.subtitle {
     color: $brand-color;
     font-style: oblique;
     font-family: $base-font-family;
+    font-weight: bold;
+    line-height: 1;
 }
 a {
     color: $brand-color;
@@ -97,8 +99,13 @@ blockquote {
     }
 
 
+.headline {
+    font-size: 3em;
+    margin-bottom: 0em;
+    line-height: 1.5em;
+    }
 
-.headline, .post-headline {
+.post-headline {
     font-size: 3em;
     margin-bottom: 0.5em;
 
@@ -225,4 +232,11 @@ footer {
 audio::-webkit-media-controls-panel {
     background-color: #A87DB7;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  figure {
+    color: $brand-color;
   }

@@ -4,6 +4,7 @@ title:  Ethical Considerations
 permalink: /ethical-considerations/
 ---
 Let's dive into some of the biggest ethical concerns surrounding VA technology.
+
 <figure>
     <figcaption>Hey Siri, what impact could virtual assistants have on human relationships?</figcaption>
     <audio class="audio-1" controls>
