@@ -1,0 +1,6 @@
+---
+layout: post
+title:  Case Studies
+---
+<p class="align-center"><button style="all: unset; font-family: Helvetica,Arial,sans-serif; display: inline-block; max-width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; background-color: #a87db7; color: #ffffff; font-size: 20px; border-radius: 25px; padding: 0 33px; font-weight: bold; height: 50px; cursor: pointer; line-height: 50px; text-align: center; margin: 0; text-decoration: none;" data-tf-popup="LTmjbiRH" data-tf-size="100">Try me!</button>
+<script src="//embed.typeform.com/next/embed.js"></script>
