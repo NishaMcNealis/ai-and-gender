@@ -19,19 +19,18 @@ body {
 
     }
 
-    h1,h2,h3,h4,h5,h6 {
-         font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
-         font-weight: bold;
-         line-height: 1.8;
-         margin: 0;
-         text-transform: capitalize;
-    }
+h1,h2,h3,h4,h5,h6 {
+        font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: bold;
+        line-height: 1.8;
+        margin: 0;
+}
 
-    h4 {
-        color: $brand-color;
-    }
-
-
+.subtitle {
+    color: $brand-color;
+    font-style: oblique;
+    font-family: $base-font-family;
+}
 a {
     color: $brand-color;
     text-decoration: none;
@@ -225,4 +224,5 @@ footer {
 
 audio::-webkit-media-controls-panel {
     background-color: #A87DB7;
+    text-align: center;
   }

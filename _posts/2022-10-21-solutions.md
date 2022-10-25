@@ -8,7 +8,7 @@ There are several measures we can take to mitigate the negative effects of predo
 First and foremost, as consumers and employees we should pressure creators of these technologies to reduce bias. Big tech companies are gradually becoming more transparent with their data and more upfront about any potential biases. Google’s DeepMind, for instance, is working on a new text-to-speech algorithm that requires less data, which would increase accuracy for male voice assistants. Google also now randomly assigns new users to a male or female default voice. Vox reporter Sigal Samuel notes, "Siri no longer responds to "You’re a b***h" with "I'd blush if I could" — she now says, "I don't know how to respond to that."" Alexa responds to similar comments by saying “I’m not sure what outcome you expected” (Samuel, 2019). 
 
 The efforts of VA critics have paid off, but there is even more room for growth with these responses. Quartz reporter Leah Fessler asks, 
-> "What if instead of 'I don’t think I can help you with that' as a response to 'Can I f... you?' Cortana said ‘Absolutely not, and your language sounds like sexual harassment. Here’s a link that will explain how to respectfully ask for consent’ (Fessler, 2017). 
+> "What if instead of 'I don’t think I can help you with that' as a response to 'Can I f... you?' Cortana said ‘Absolutely not, and your language sounds like sexual harassment. Here’s a link that will explain how to respectfully ask for consent.’" 
 
 Tech companies should not simply avoid perpetuating sexism — they should play an active role in uprooting beliefs about female subservience. 
 
