@@ -9,4 +9,4 @@ This pattern is not exclusive to AI assistants — we also hear female voices in
 
 <iframe width="960" height="569" style="width: 862px; height: 511px;" src="https://docs.google.com/presentation/d/e/2PACX-1vSp0Z0ZqVwjTHxCd-Cw9i22FxccDfHeqqHoVjQVa5JaXA9C-eHy6WrzOHsXP5J3CiCwz5kmpRvf5L1N/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
-<a class="github-button" href="https://nishamcnealis.github.io/hagura/case-studies/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Next: Case Studies">Next</a>
+<a class="github-button" href="https://nishamcnealis.github.io/ai-and-gender/case-studies/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Next: Case Studies">Next</a>

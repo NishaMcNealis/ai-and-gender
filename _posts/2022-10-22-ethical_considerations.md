@@ -26,4 +26,4 @@ Let's dive into some of the biggest ethical concerns surrounding VA technology.
     </audio>
 </figure>
 
-<a class="github-button" href="https://nishamcnealis.github.io/hagura/solutions/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Next: Solutions">Next</a>
+<a class="github-button" href="https://nishamcnealis.github.io/ai-and-gender/solutions/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Next: Solutions">Next</a>
