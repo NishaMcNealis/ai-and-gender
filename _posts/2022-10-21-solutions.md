@@ -1,23 +1,10 @@
 ---
 layout: post
-title:  Solutions
+title:  Potential Solutions
 permalink: /solutions/
 ---
-There are several measures we can take to mitigate the negative effects of predominantly female VAs.
+Check out the following guide to learn how people are working toward solving these issues.
 
-First and foremost, as consumers and employees we should pressure creators of these technologies to reduce bias. Big tech companies are gradually becoming more transparent with their data and more upfront about any potential biases. Google’s DeepMind, for instance, is working on a new text-to-speech algorithm that requires less data, which would increase accuracy for male voice assistants. Google also now randomly assigns new users to a male or female default voice. Vox reporter Sigal Samuel notes, "Siri no longer responds to "You’re a b***h" with "I'd blush if I could" — she now says, "I don't know how to respond to that."" Alexa responds to similar comments by saying "I'm not sure what outcome you expected". 
-
-The efforts of VA critics have paid off, but there is even more room for growth with these responses. Quartz reporter Leah Fessler asks, 
-> "What if instead of 'I don’t think I can help you with that' as a response to 'Can I f*** you?' Cortana said ‘Absolutely not, and your language sounds like sexual harassment. Here’s a link that will explain how to respectfully ask for consent.’" 
-
-Tech companies should not simply avoid perpetuating sexism — they should play an active role in uprooting beliefs about female subservience. 
-
-Public pressure alone may not be enough of a motivator for big tech companies to reach this level of allyship. However, the threat of competition may be. Brand new technologies are now emerging to replace our current tools. Q, unveiled in 2019, is the first completely gender-neutral VA. As developer Julie Carpenter expressed, the goal of Q is to spark a global discussion about gender, technology, and ethics. A nonprofit called Feminist Internet released their Personal Intelligent Assistant Standards and Feminist Chatbot Design Process, both of which provide guidelines for designers who want to create more equitable VAs. They also came out with a feminist chatbot called F'xa intended to educate users about their biases. As F'xa itself puts it, "technology companies have a responsibility to challenge these kinds of market preferences, not just blindly follow them." 
-
-In recent years, we have also seen a push to make the field of AI much more diverse. An AI Now study revealed that women comprise around 15% of AI researchers at Facebook and 10% at Google. Nonbinary and transgender individuals are also underrepresented. Less than 5% of the staff at Facebook, Google and Microsoft are Black, and less than 6% are Hispanic. Funding programs focused on inclusivity, reporting diversity statistics transparently, and increasing visibility for women and minorities already in the field can help to close this gap. Samuel writes, 
-
-> "It's difficult to imagine a tech team composed mostly of women putting out a product that responds to 'Who’s your daddy?' with 'You are' — which used to be Siri’s response."
-
-If marginalized groups are not part of the conversation around voice assistants, it is unlikely that we will ever see improvement. 
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Potential Solutions" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/638a557e8d566e00128107f9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 <a class="github-button" href="https://nishamcnealis.github.io/ai-and-gender/conclusion/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Next: Conclusion">Next</a>
