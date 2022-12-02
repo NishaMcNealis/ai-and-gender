@@ -11,7 +11,7 @@ Let's dive into some of the biggest ethical concerns surrounding VA technology.
     <audio class="audio-1" controls>
     <source src="{{site.baseurl}}/assets/audio/human_connection.mp3" type="audio/mpeg">    
     </audio>
-
+<br>
 <div class="dropdown">
     <span class="transcript">See Transcript</span>
         <div class="dropdown-content">
@@ -25,7 +25,7 @@ Let's dive into some of the biggest ethical concerns surrounding VA technology.
     <audio class="audio-1" controls>
     <source src="{{site.baseurl}}/assets/audio/misogyny.mp3" type="audio/mpeg">    
     </audio>
-
+<br>
 <div class="dropdown">
     <span class="transcript">See Transcript</span>
         <div class="dropdown-content">
@@ -40,6 +40,7 @@ Let's dive into some of the biggest ethical concerns surrounding VA technology.
     <audio class="audio-1" controls>
     <source src="{{site.baseurl}}/assets/audio/intersectionality.mp3" type="audio/mpeg">    
     </audio>
+    <br>
 
 <div class="dropdown">
     <span class="transcript">See Transcript</span>
