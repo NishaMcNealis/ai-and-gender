@@ -8,7 +8,7 @@ email: nisha.mcnealis@gmail.com
 highlighter: rouge
 
 permalink: /:title/
-paginate: 4
+paginate: 7
 paginate_path: /page:num/
 
 
